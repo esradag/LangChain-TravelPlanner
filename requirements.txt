@@ -1,0 +1,9 @@
+gradio==4.44.1
+python-dotenv==1.0.0
+langchain==0.3.15
+langchain_community==0.3.15
+openai==0.27.10
+requests==2.31.0
+folium==0.14.0
+
+
