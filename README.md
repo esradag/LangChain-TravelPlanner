@@ -77,25 +77,3 @@ interface.launch(share=True)
 
 ---
 
-## Contribution
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-or-bugfix
-   ```
-3. Commit your changes and push the branch:
-   ```bash
-   git push origin feature-or-bugfix
-   ```
-4. Submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to add or modify any sections! 🚀
