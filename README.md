@@ -1,6 +1,3 @@
-Here's the cleaned-up and properly formatted version of your documentation:
-
----
 
 # Travel Itinerary Planner
 
