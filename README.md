@@ -22,9 +22,10 @@ A personalized travel itinerary planner that generates a detailed day trip sched
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/travel-itinerary-planner.git
-   cd travel-itinerary-planner
+
+        ```bash
+        git clone https://github.com/your-repo/travel-itinerary-planner.git
+        cd travel-itinerary-planner
 ## Install Dependencies
 
 Run the following command to install the required dependencies:
