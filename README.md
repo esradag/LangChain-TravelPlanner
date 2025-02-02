@@ -2,6 +2,7 @@
 # Travel Itinerary Planner
 
 A personalized travel itinerary planner that generates a detailed day trip schedule based on your selected city, interests, and time slots. The application also provides a dynamically centered map showing recommended places along with photos, distances, and durations.
+<img width="1507" alt="Ekran Resmi 2025-02-03 00 49 55" src="https://github.com/user-attachments/assets/89565e84-9246-4160-93ce-994456f8b149" />
 
 ---
 
